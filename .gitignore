@@ -1,0 +1,12 @@
+.vscode/
+.vs/
+bin/
+obj/
+out/
+
+
+# windows cruft
+*.exe
+*.ilk
+*.pdb
+*.obj
